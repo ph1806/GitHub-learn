@@ -4,4 +4,6 @@ hvgv
 
 
 revert : " git revert commit "commit ID:
+ 
 
+delete revret
