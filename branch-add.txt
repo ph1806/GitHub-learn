@@ -1,0 +1,3 @@
+how to push new branch to github
+
+always merge dev branch to main through github  gui 
